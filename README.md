@@ -9,3 +9,7 @@ This project analyzes service operations data to evaluate SLA performance, techn
 - 30% of requests remain in progress, indicating potential backlog
 - Technician workload is evenly distributed across the team
 - Electrical Issues and HVAC Repairs are the most frequent request types, suggesting areas for resource prioritization
+
+## Tools Used
+- SQLite
+- SQL
